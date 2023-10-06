@@ -16,7 +16,8 @@
     "react-iframe": "^1.8.5",
     "react-scripts": "5.0.1",
     "styled-components": "^6.0.8",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage":"https://vinaydoddapaneni.github.io/maps/"
   },
   "scripts": {
     "start": "react-scripts start",
